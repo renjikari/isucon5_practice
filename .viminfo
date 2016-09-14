@@ -1,0 +1,47 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+:set nu
+:set nun
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+
+# ファイルマーク:
+'0  1  0  ~/env.sh
+'1  392  0  /var/log/cloud-init-output.log
+'2  1  0  /var/log/cloud-init-output.log
+
+# ジャンプリスト (新しいものが先):
+-'  1  0  ~/env.sh
+-'  392  0  /var/log/cloud-init-output.log
+-'  1  0  /var/log/cloud-init-output.log
+-'  409  0  /var/log/cloud-init-output.log
+-'  8  0  /var/log/cloud-init-output.log
+-'  392  0  /var/log/cloud-init-output.log
+-'  1  0  /var/log/cloud-init-output.log
+-'  409  0  /var/log/cloud-init-output.log
+-'  8  0  /var/log/cloud-init-output.log
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/env.sh
+	"	1	0
+
+> /var/log/cloud-init-output.log
+	"	392	0
